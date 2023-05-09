@@ -1,0 +1,37 @@
+{
+   /* "areas": [
+        "Starter": '["Fuecoco", "Quaxly", "Sprigatito"]',
+        "Poco Path": ["Hoppip", "Fletchling", "Scatterbug", "Lechonk", "Tarountula", "Pawmi"],
+        "South Province (A1)": ["Hoppip", "Wooper",  "Wingull", "Ralts", "Surskit", "Combee", "Sunkern", "Buizel", "Pawmi", "Magikarp", "Psyduck", "Chewtle", "Gastly", "Azurill", "Fletchling", "Scatterbug", "Oricorio", "Lechonk", "Tarountula", "Fidough", "Happiny", "Pichu", "Bonsly", "Skwovet", "Shroodle", "Bounsweet", "Igglybuff", "Arrokuda", "Drowzee", "Deerlight", "Pachirisu"],
+        "Inlet Grotto": ["Diglett", "Hondour", "Yungoos"],
+        "South Province (A4)": [], 
+        "Soth Province (A2)": [],
+        "South Province (A5)": [],
+        "East Province (A1)": [],
+        "South Province (A3)": [],
+        "West Province (A1)": [],
+        "East Province (A2)": [],
+        "East Province (A3)": [],
+        "West Prvoince (A2)": [],
+        "West Province (A3)": [],
+        "Glaseado Mtn. South": [],
+        "Dalizapa Passagea": [],
+        "Tagtree Thicket": [],
+        "Glaseado Mtn. North": [],
+        "South Province (A6)": [],
+        "Asado Desert": [],
+        "Alfornada Cavern": [],
+        "North Province (A3)": [],
+        "Casseroya Lake": [],
+        "North Province": [],
+        "West Paldean Sea": [],
+        "South Paldean Sea": [],
+        "East Paldean Sea": [],
+        "North Paldean Sea": [],
+        "Socarrat Trail": [],
+        "Area Zero": [],
+        "Pokemon League": []
+   ]
+} */
+
+
