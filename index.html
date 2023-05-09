@@ -1,7 +1,6 @@
 <html>
     <head>
     <script src="data/areas.js"> </script>
-    <script src="main.js"> </script>
     <script src="data/pokemon.js"> </script>
 	<link rel="stylesheet" type="text/css" href="style.css">
     </head>
@@ -20,7 +19,7 @@
 
         <div id="types"> </div> <div id="stats"></div>
 
-        <div css="button-display">
+        <div css="button-display" id="old-buttons">
             <button id="Starter" onclick=generate(Starter)> Starter </button>
             <button id="PocoPath" onclick=generate(PocoPath)> Poco Path </button>
             <button id="SouthProvinceA1" onclick="generate(SouthProvinceA1)"> South Province A1 </button>
@@ -28,6 +27,7 @@
         </div>
     </style>
 
+    <script src="main.js"> </script>
     </body>
 
 

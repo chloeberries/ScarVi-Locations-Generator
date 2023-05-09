@@ -14,11 +14,6 @@ function setter (namedResult){
     console.log(pokemonName + " pokemon.js reported!");
     imageLocation = './data/images/'+pokemonName+'.png'
     apiPermittedName = pokemonName.toLowerCase();
-    console.log(imageLocation)
-    //imageDisplay = document.getElementById("display")
-    //imageDisplay.src = imageLocation;
-    //imageDisplay.style.width = 500;
-    //imageDisplay.style.height = 500;
 
     apiLink = 'https://pokeapi.co/api/v2/pokemon/'+apiPermittedName
     fetch(apiLink).then((response) => response.json()).then((data) =>{
@@ -38,9 +33,7 @@ function setter (namedResult){
         typeDisplay.innerHTML = "Type: " + pokemon.type;
         statDisplay = document.getElementById("stats");
         statDisplay.innerHTML = "HP: " + pokemon.stats[0].base_stat + "\xa0\xa0\xa0\xa0ATK: " + pokemon.stats[1].base_stat + "\xa0\xa0\xa0\xa0DEF: " + pokemon.stats[2].base_stat + "\xa0\xa0\xa0\xa0SP. ATK: " + pokemon.stats[3].base_stat + "\xa0\xa0\xa0\xa0SP. DEF: " + pokemon.stats[4].base_stat + "\xa0\xa0\xa0\xa0SPEED: " + pokemon.stats[5].base_stat
-        /* console.log(pokemon)
-        console.log(pokemon.abilities) */
-        console.log(pokemon.type) 
+        
     })
 
 
