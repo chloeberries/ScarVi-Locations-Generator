@@ -13,10 +13,10 @@ function numResultGen(min, max){
 
 function generate(area){
     var result = document.getElementById("result");
-    total = area.total;
-    numResult = numResultGen(0, total)
+    numResult = numResultGen(0, area.monsters.length)
     namedResult = area.monsters[numResult]
     result.innerHTML = area.monsters[numResult]
     setter(namedResult)
+
 
 }
