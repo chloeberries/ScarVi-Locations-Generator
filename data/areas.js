@@ -4,7 +4,7 @@ const Starter = {
         monsters: ["Fuecoco", "Quaxly", "Sprigatito"]
 }
 
-var PocoPath = {
+const PocoPath = {
         monsters: ["Lechonk","Pawmi","Tarountula","Hoppip","Fletchling","Scatterbug","Wingull","Wingull","Magikarp","Buizel","Buizel","Arrokuda"]
 }
 
@@ -13,118 +13,118 @@ var SouthProvinceA1 = {
 }
 
 
-var InletGrotto = {
+const InletGrotto = {
         monsters: ["Diglett", "Psyduck", "Houndour", "Pawniard", "Yungoos", "Gumshoos"]
 }
 
-var SouthProvinceA4 = {
+const SouthProvinceA4 = {
         monsters: []
 }
 
-var SouthProvinceA2 = {
+const SouthProvinceA2 = {
         monsters: []
 }
 
-var SouthProvinceA5 = {
+const SouthProvinceA5 = {
         monsters: []
 }
 
-var EastProvinceA1 = {
+const EastProvinceA1 = {
         monsters: []
 }
 
-var SouthProvinceA3 = {
+const SouthProvinceA3 = {
         monsters: []
 }
 
-var WestProvinceA1 = {
+const WestProvinceA1 = {
         monsters: []
 }
 
-var EastProvinceA2 = {
+const EastProvinceA2 = {
         monsters: []
 }
 
-var EastProvinceA3 = {
+const EastProvinceA3 = {
         monsters: []
 }
 
-var WestProvinceA2 = {
+const WestProvinceA2 = {
         monsters: []
 }
 
-var WestProvinceA3 = {
+const WestProvinceA3 = {
         monsters: []
 }
 
-var GlaseadoMtnSouth = {
+const GlaseadoMtnSouth = {
         monsters: []
 }
 
-var DalizapaPassagea = {
+const DalizapaPassagea = {
         monsters: []
 }
 
-var TagtreeThicket = {
+const TagtreeThicket = {
         monsters: []
 }
 
-var GlaseadoMtnNorth = {
+const GlaseadoMtnNorth = {
         monsters: []
 }
 
-var SouthProvinceA6 = {
+const SouthProvinceA6 = {
         monsters: []
 } 
 
-var AsadoDesert = { 
+const AsadoDesert = { 
         monsters: []
 }
 
-var AlfornadaCavern = {
+const AlfornadaCavern = {
         monsters: []
 }
 
-var NorthProvinceA3 = {
+const NorthProvinceA3 = {
         monsters: []
 }
 
-var CasseroyaLake = {
+const CasseroyaLake = {
         monsters: []
 }
 
-var NorthProvinceA1 = {
+const NorthProvinceA1 = {
         monsters: []
 }
 
-var NorthProvinceA2 = {
+const NorthProvinceA2 = {
         monsters: []
 }
 
-var WestPaldeanSea = {
+const WestPaldeanSea = {
         monsters: []
 }
 
-var SouthPaldeanSea = {
+const SouthPaldeanSea = {
         monsters: []
 }
 
-var EastPaldeanSea = {
+const EastPaldeanSea = {
         monsters: []
 }
 
-var NorthPaldeanSea = {
+const NorthPaldeanSea = {
         monsters: []
 }
 
-var SocarratTrail = {
+const SocarratTrail = {
         monsters: []
 }
 
-var AreaZero = {
+const AreaZero = {
         monsters: []
 }
 
-var PokemonLeague = {
+const PokemonLeague = {
         monsters: []
 }
