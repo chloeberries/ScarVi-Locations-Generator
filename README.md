@@ -1,4 +1,4 @@
-# S/V Encounter Generator
+# Scarlet/Violet Encounter Generator
 This is a fairly self-explanatory tool. In a nuzlocke challenge, one of the rules imposed is that when entering a new route, the player must decide to catch or forfeit the first Pokemon of each route. No other encounters are valid for catch and use (some exceptions apply). This creates challenge by forcing the player to not be able to choose the encounter and they may have to use a Pokemon that they would not normally use because of preference, low team compatibility, overall Pokemon capability, etc. 
 
 In most games in the franchise, this was pefectly easy to execute. The steps are as follows:
