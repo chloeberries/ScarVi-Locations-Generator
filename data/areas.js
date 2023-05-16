@@ -1,4 +1,9 @@
-const areas = ["Starter","Poco Path","South Province (A1)","Inlet Grotto ","South Province (A4)","South Province (A2)","South Province (A5)","East Province (A1)","South Province (A3)","West Province (A1)","East Province (A2)","East Province (A3)","West Province (A2) ","West Province (A3)","Glaseado Mtn. South","Daizapa Passagea","Tagtree Thicket","Glaseado Mtn. North","South Province (A6)","Asado Desert","Alfornada Cavern","North Province (A3)","Casseroya Lake","North Province (A1)","North Province (A2)", "West Paldean Sea","South Paldean Sea","East Paldean Sea","North Paldean Sea","Socarrat Trail","Area Zero","Pokemon League"];
+const areas = [Starter,PocoPath,SouthProvinceA1,InletGrotto ,SouthProvinceA4,SouthProvinceA2,SouthProvinceA5,EastProvinceA1,SouthProvinceA3,WestProvinceA1,EastProvinceA2,EastProvinceA3,WestProvinceA2,WestProvinceA3,GlaseadoMtnSouth,DalizapaPassagea,TagtreeThicket,GlaseadoMtnNorth,SouthProvinceA6,AsadoDesert,AlfornadaCavern,NorthProvinceA3,CasseroyaLake,NorthProvinceA1,NorthProvinceA2, WestPaldeanSea,SouthPaldeanSea,EastPaldeanSea,NorthPaldeanSea,SocarratTrail,AreaZero,PokemonLeague];
+
+const masterList = {
+        Starter: ['Fuecoco', 'Quaxly', 'Sprigatito'],
+        PocoPath: ['Lechonk","Pawmi","Tarountula","Hoppip","Fletchling","Scatterbug","Wingull","Wingull","Magikarp","Buizel","Buizel","Arrokuda']
+}
 
 const Starter = { 
         monsters: ["Fuecoco", "Quaxly", "Sprigatito"]
